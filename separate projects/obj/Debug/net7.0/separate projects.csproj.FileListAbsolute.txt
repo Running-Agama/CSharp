@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Documents\vscode\separate projects\bin\Debug\net7.0\separate projects.exe
+C:\Users\Vinicius\Documents\vscode\separate projects\bin\Debug\net7.0\separate projects.deps.json
+C:\Users\Vinicius\Documents\vscode\separate projects\bin\Debug\net7.0\separate projects.runtimeconfig.json
+C:\Users\Vinicius\Documents\vscode\separate projects\bin\Debug\net7.0\separate projects.dll
+C:\Users\Vinicius\Documents\vscode\separate projects\bin\Debug\net7.0\separate projects.pdb
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\separate projects.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\separate projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\separate projects.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\separate projects.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\separate projects.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\separate projects.dll
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\refint\separate projects.dll
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\separate projects.pdb
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\separate projects.genruntimeconfig.cache
+C:\Users\Vinicius\Documents\vscode\separate projects\obj\Debug\net7.0\ref\separate projects.dll
