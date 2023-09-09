@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Documents\treino\case-break\bin\Debug\net7.0\case-break.exe
+C:\Users\Vinicius\Documents\treino\case-break\bin\Debug\net7.0\case-break.deps.json
+C:\Users\Vinicius\Documents\treino\case-break\bin\Debug\net7.0\case-break.runtimeconfig.json
+C:\Users\Vinicius\Documents\treino\case-break\bin\Debug\net7.0\case-break.dll
+C:\Users\Vinicius\Documents\treino\case-break\bin\Debug\net7.0\case-break.pdb
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\case-break.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\case-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\case-break.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\case-break.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\case-break.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\case-break.dll
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\refint\case-break.dll
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\case-break.pdb
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\case-break.genruntimeconfig.cache
+C:\Users\Vinicius\Documents\treino\case-break\obj\Debug\net7.0\ref\case-break.dll

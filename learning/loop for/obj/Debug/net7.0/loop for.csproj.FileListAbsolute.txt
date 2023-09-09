@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Documents\treino-cs\loop for\bin\Debug\net7.0\loop for.exe
+C:\Users\Vinicius\Documents\treino-cs\loop for\bin\Debug\net7.0\loop for.deps.json
+C:\Users\Vinicius\Documents\treino-cs\loop for\bin\Debug\net7.0\loop for.runtimeconfig.json
+C:\Users\Vinicius\Documents\treino-cs\loop for\bin\Debug\net7.0\loop for.dll
+C:\Users\Vinicius\Documents\treino-cs\loop for\bin\Debug\net7.0\loop for.pdb
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\loop for.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\loop for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\loop for.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\loop for.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\loop for.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\loop for.dll
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\refint\loop for.dll
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\loop for.pdb
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\loop for.genruntimeconfig.cache
+C:\Users\Vinicius\Documents\treino-cs\loop for\obj\Debug\net7.0\ref\loop for.dll
