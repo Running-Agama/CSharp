@@ -31,3 +31,14 @@ foreach(string nome in nomes)
 Console.WriteLine($"Atualmente temos {nomes.Count} itens na lista");
 //no futuro ver como salvar os itens em um arquivo de texto modificavel
 
+Console.Write("Deseja salvar? ");
+string respostaSalvar = Console.ReadLine();
+
+if(respostaSalvar == "sim")
+{
+ 
+    Console.Write("Insira o nome e formato do arquivo de texto:")
+    string nomeFormato = Console.ReadLine()
+    
+    
+}
