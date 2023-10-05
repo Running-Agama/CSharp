@@ -1,5 +1,6 @@
 ﻿
-using System.ComponentModel.DataAnnotations.Schema;
+using System;
+using System.IO;
 
 
 
@@ -29,7 +30,7 @@ foreach(string nome in nomes)
     Console.WriteLine(nome);
 
 Console.WriteLine($"Atualmente temos {nomes.Count} itens na lista");
-//no futuro ver como salvar os itens em um arquivo de texto modificavel
+
 
 Console.Write("Deseja salvar? ");
 string respostaSalvar = Console.ReadLine();
@@ -37,8 +38,15 @@ string respostaSalvar = Console.ReadLine();
 if(respostaSalvar == "sim")
 {
  
-    Console.Write("Insira o nome e formato do arquivo de texto:")
-    string nomeFormato = Console.ReadLine()
+    Console.Write("Insira o nome e formato do arquivo de texto:");
+    string nomeFormatoArquivo = Console.ReadLine();
+
+    File.WriteAllLines(nomeFormatoArquivo, nomes);
+
+    Console.Clear();
+
+    Console.WriteLine("Arquivo salvo com sucesso, você deve encontra-lo na pasta do programa.");
     
     
 }
+//adicionar um loop e tela de seleção pro usuario escolher quando sair, quando listar um arquivo e quando quiser colocar mais itens na lista.
