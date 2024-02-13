@@ -2,8 +2,6 @@
 
 string      nomeMarca = "";
 // nomes de marca:  Adidas, Nike, New Balance, Olympicus, PUMA, Mizuno, Under Armour, Fila, Vans, Oakley
-
-
 string      nomeModelo = "";
 //string      nomeLinha;
 //int         numeroTamanho;
@@ -51,5 +49,7 @@ switch (nomeMarca)
 //TODO: Adicionar todas as marcas e modelos
 //TODO: Descobrir como filtrar as linhas dos modelos de tenis
 
+Console.Write("\nInsira o número de linhas:");
 
 Console.WriteLine($"values(\"{nomeMarca}\", \"{nomeModelo}\")");
+
