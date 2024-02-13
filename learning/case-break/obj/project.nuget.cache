@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/1UBcc4L+cWVHz1n/Qwyvjl+4UHhuR9awq16p7Bda4HO2OOpGQuJlZ4ua3F0hGoiInxhnwtuhAPjzjRZW6MspA==",
+  "dgSpecHash": "AaloGIYy1sFB14s7gtKoo+zDTWBNoD3oujdQ84MiReDUKUm/cGI0TA4hzYc9S5HSqe+ah8QfLrZ1uZYjyR7Nuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicius\\Documents\\treino\\case-break\\case-break.csproj",
+  "projectFilePath": "/workspaces/CSharp/learning/case-break/case-break.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

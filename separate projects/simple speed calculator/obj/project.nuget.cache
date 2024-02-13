@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vuqZrO+qXPsA6YpOIKBUcLz0VutOB45MVTWXLhWuzrxAPqyjV4iQ/tcdEqWnNn44eBGaH58sp08LX5OlLzXsAA==",
+  "dgSpecHash": "PjEFwC0LvWBUgWdrzuQ1IHubyKoUPpO0rTk/GQn+ALSzGaSH4Uyajkg/sX6qf/DhHJjfXZz0N8vc9Vr+Hiq3cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicius\\Documents\\vscode\\separate projects\\separate projects.csproj",
+  "projectFilePath": "/workspaces/CSharp/separate projects/simple speed calculator/separate projects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

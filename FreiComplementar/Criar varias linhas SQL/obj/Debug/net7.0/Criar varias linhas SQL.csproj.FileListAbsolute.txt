@@ -1,0 +1,15 @@
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/bin/Debug/net7.0/Criar varias linhas SQL
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/bin/Debug/net7.0/Criar varias linhas SQL.deps.json
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/bin/Debug/net7.0/Criar varias linhas SQL.runtimeconfig.json
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/bin/Debug/net7.0/Criar varias linhas SQL.dll
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/bin/Debug/net7.0/Criar varias linhas SQL.pdb
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/Criar varias linhas SQL.csproj.AssemblyReference.cache
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/Criar varias linhas SQL.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/Criar varias linhas SQL.AssemblyInfoInputs.cache
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/Criar varias linhas SQL.AssemblyInfo.cs
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/Criar varias linhas SQL.csproj.CoreCompileInputs.cache
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/Criar varias linhas SQL.dll
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/refint/Criar varias linhas SQL.dll
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/Criar varias linhas SQL.pdb
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/Criar varias linhas SQL.genruntimeconfig.cache
+/workspaces/CSharp/FreiComplementar/Criar varias linhas SQL/obj/Debug/net7.0/ref/Criar varias linhas SQL.dll

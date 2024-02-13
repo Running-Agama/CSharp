@@ -1,0 +1,15 @@
+/workspaces/CSharp/separate projects/Simple List/bin/Debug/net7.0/projetos basicos c#
+/workspaces/CSharp/separate projects/Simple List/bin/Debug/net7.0/projetos basicos c#.deps.json
+/workspaces/CSharp/separate projects/Simple List/bin/Debug/net7.0/projetos basicos c#.runtimeconfig.json
+/workspaces/CSharp/separate projects/Simple List/bin/Debug/net7.0/projetos basicos c#.dll
+/workspaces/CSharp/separate projects/Simple List/bin/Debug/net7.0/projetos basicos c#.pdb
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/projetos basicos c#.csproj.AssemblyReference.cache
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/projetos basicos c#.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/projetos basicos c#.AssemblyInfoInputs.cache
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/projetos basicos c#.AssemblyInfo.cs
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/projetos basicos c#.csproj.CoreCompileInputs.cache
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/projetos basicos c#.dll
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/refint/projetos basicos c#.dll
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/projetos basicos c#.pdb
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/projetos basicos c#.genruntimeconfig.cache
+/workspaces/CSharp/separate projects/Simple List/obj/Debug/net7.0/ref/projetos basicos c#.dll
